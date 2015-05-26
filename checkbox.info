@@ -1,0 +1,5 @@
+name = Alter checkbox
+description = Uncheck display for author and date information checkbox to 0.
+package = Epicodus Example
+core = 7.x
+files[] = checkbox.module
